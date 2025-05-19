@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250" height="60" viewBox="0 0 250 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stylized "S" emblem -->
+  <path d="M35 10C22 10 20 20 25 25C30 30 45 30 50 35C55 40 55 50 40 50" stroke="#5c42f5" stroke-width="8" stroke-linecap="round"/>
+  <path d="M20 10C33 10 35 20 30 25C25 30 10 30 5 35C0 40 0 50 15 50" stroke="#3ca3f0" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- "scaleflow" text -->
+  <path d="M65 35C65 27 70 25 75 25C80 25 85 27 85 32C85 37 80 39 75 39C70 39 65 37 65 30" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M90 25V40" stroke="white" stroke-width="2"/>
+  <path d="M95 25C105 25 105 40 95 40" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M110 25V40" stroke="white" stroke-width="2"/>
+  <path d="M120 25H135C135 30 130 30 130 30H120V25Z" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M120 30H130C130 30 135 30 135 35V40H120V30Z" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M140 25V40" stroke="#5c42f5" stroke-width="2"/>
+  <path d="M145 40V25H160" stroke="#5c42f5" stroke-width="2" fill="none"/>
+  <path d="M150 32H160" stroke="#5c42f5" stroke-width="2"/>
+  <path d="M145 40H160" stroke="#5c42f5" stroke-width="2"/>
+  <path d="M165 40V25" stroke="#5c42f5" stroke-width="2"/>
+  <path d="M175 25C165 25 165 40 175 40C185 40 185 25 175 25Z" stroke="#5c42f5" stroke-width="2" fill="none"/>
+  <path d="M195 25L190 40" stroke="#5c42f5" stroke-width="2"/>
+  <path d="M195 25L200 40" stroke="#5c42f5" stroke-width="2"/>
+  <path d="M185 35H205" stroke="#5c42f5" stroke-width="2"/>
+  
+  <!-- "technologies" text -->
+  <text x="210" y="40" font-family="Arial" font-size="8" fill="white">technologies</text>
+</svg>
